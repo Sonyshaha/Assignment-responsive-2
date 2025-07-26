@@ -130,6 +130,157 @@
     gap: 24px;
 }
 
+.sec-2{
+    width: 1140px;
+    height: 600px;
+    margin: 250px auto;
+}
+.img1-sec-2{
+    width: 286px;
+    height: 286px;
+    
+
+}
+.sec-2-main{
+    width: 1140px;
+    height: 600px;
+    display: flex;
+    gap: 70px;
+
+}
+.p-sec-2{
+    font-size: 50px;
+    font-weight: bold;
+    width: 540px;
+    height: 147px;
+    margin-bottom: 5px;
+}
+.li-sec-2{
+    width: 540px;
+    height: 110px;
+    color: #585858;
+    font-size: 1.7rem;
+    margin-bottom: 20px;
+   
+}
+.ul-sec-2{
+    margin-top: -30px;
+   
+}
+.img1-sec-2{
+    position: absolute;
+     margin-left: 350px;
+     margin-top:-125px;
+}
+.sec-3-h1{
+    margin: 10px auto;
+    font-size: 3.5rem;
+    text-align: center;
+    width: 1440px;
+    height: 68px;
+    margin-bottom: 20px;
+}
+.sec-3-p{
+    text-align: center;
+    color: #747474;
+    font-size: 1.5rem;
+    width: 888px;
+    height: 54px;
+    margin: 0 auto;
+}
+
+/*--section-4--*/
+.sec-4{
+    width: 1140px;
+    height: 440px;
+    margin: 100px auto;
+}
+.img1-sec-4{
+      width: 370px;
+      height: 201px;
+      background-color: rgba(0, 0, 0, 0.25);
+      filter: blur(1.5px);
+      filter:contrast(50px);
+      repeat: no-repeat;
+      border-radius: 20px;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      color: white;
+      overflow: hidden;
+}
+.ovv{
+
+      position: absolute;
+      width: 270px;
+      height: 77px;
+      
+      margin-top: -170px;
+      margin-left: 60px;
+      align-items: center;
+    }
+.imgp1-sec-4{
+    color: aliceblue;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.imgp2-sec-4>a{
+    color: aliceblue;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin:60px;
+    text-decoration:underline;
+}
+.imgsm-sec-4{
+    gap:20px;
+}
+.img-card-5{
+    margin-top: 20px;
+}
+.img6-sec-4{
+      width: 753px;
+      height: 420px;
+      background-color: rgba(0, 0, 0, 0.25);
+      filter: blur(1.5px);
+      repeat: no-repeat;
+      border-radius: 20px;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      color: white;
+      overflow: hidden;
+}
+.imgp6-sec-4{
+    font-size: 2.5rem;
+    font-weight: bold;
+    width: 500px;
+    height: 50px;
+    color: #dfe4ef;
+}
+.imgpa6-sec-4{
+    margin-left: 150px;
+    text-decoration:underline;
+}
+.ovv1{
+    position: absolute;
+      width: 500px;
+      
+      
+      
+      margin-top: -350px;
+      margin-left: 140px;
+      align-items: center;
+}
+.sec-4{
+    gap:30px;
+    
+}
+
 
 
 
