@@ -237,7 +237,6 @@
     background-color: rgba(0, 0, 0, 0.25);
     filter: blur(1.2px);
     filter: contrast(50px);
-    repeat: no-repeat;
     border-radius: 20px;
     position: relative;
     display: flex;
@@ -287,7 +286,6 @@
     height: 420px;
     background-color: rgba(0, 0, 0, 0.25);
     filter: blur(1.2px);
-    repeat: no-repeat;
     border-radius: 20px;
     position: relative;
     display: flex;
