@@ -560,7 +560,7 @@ footer {
     }
 
     .ul-sec-2 {
-        width: 400;
+        width: 350;
         height: 250px;
     }
 
@@ -568,6 +568,7 @@ footer {
         font-size: 25px;
         width: 400px;
         height: 50px;
+        margin-left: 20px;
     }
 
     .li-sec-2 {
@@ -705,6 +706,7 @@ footer {
         flex-direction: column;
         gap: 5px;
         margin-top: -200px;
+        margin-left: 20px;
     }
 
     .ul-2-footer {
